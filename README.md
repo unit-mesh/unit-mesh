@@ -151,8 +151,6 @@ See Unit Server and ChatFlow commit records for details.
 
 First, let's look at a Hello, World for Spring written in Kotlin Script.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ```kotlin
 @file:DependsOn("org.springframework.boot:spring-boot-starter-web:2.7.9")
 
@@ -302,10 +300,9 @@ class Server : KotlessAWS() {
 
 Life is short, welcome to join our Watchlist and discuss the future together.
 
-## ## Join Waitlist
+## Join Waitlist
 
-Doghead, right now **Waitlist engineers** you can join Unit Mesh's Watchlist at:
+Right now **Waitlist engineers**, you can join Unit Mesh's Watchlist at:
 
 [https://github.com/prompt-engineering/unit-mesh](https://github.com/prompt-engineering/unit-mesh)
 
-Translated with www.DeepL.com/Translator (free version)
