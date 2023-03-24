@@ -1,7 +1,8 @@
-# Unit Mesh：渐近式 AI 编程架构模式
+# Unit Mesh: Asymptotic AI programming architecture pattern
+
+![Unit Mesh](images/unit-mesh-processes.png)
 
 > Unit Mesh是一种基于人工智能生成的分布式架构，与传统的分布式架构不同，Unit Mesh 中的服务单元 (Unit) 是由 AI 生成的，应用程序中的服务和数据抽象为一个个独立的单元，并通过统一的控制平面进行管理和部署。
-> 
 
 在上一篇文章 《[未来可期的 AI 编程：到底是程序员的终极解放还是失业的开始？]([https://www.phodal.com/blog/thinking-in-ai-programming/](https://www.phodal.com/blog/thinking-in-ai-programming/))》 里，我们介绍了人类食用 AI 编程的考虑要素质。在这一篇文章里，我们将继续探索 AI 编程的可能性 —— 一种 AI 编程下的可能性：****Unit Mesh**** 架构，大抵也是现阶段比较可行的方式。
 
@@ -23,7 +24,7 @@ PS：之所以叫 Unit Mesh，是因为我们写了一个底层服务叫 [UnitSe
 
 详细过程，见本文的后半部分。
 
-前端页面：[https://prompt.phodal.com/zh-CN/click-flow/unit-mesh-unit-server/](https://prompt.phodal.com/zh-CN/click-flow/unit-mesh-unit-server/) 
+前端页面：[https://prompt.phodal.com/zh-CN/click-flow/unit-mesh-unit-server/](https://prompt.phodal.com/zh-CN/click-flow/unit-mesh-unit-server/)
 
 首先，你需要克隆一下，Unit Server 的代码：[https://github.com/prompt-engineering/unit-server](https://github.com/prompt-engineering/unit-server) ，然后，选择 kotlin-repl 或者 typescript-repl 对应 Kotlin、TypeScript 两种语言。
 
@@ -52,7 +53,7 @@ PS：这里有一个手动加入调用 Application 类和调用  main 方法的�
 再重复一下定义：
 
 > Unit Mesh是一种基于人工智能生成的分布式架构，与传统的分布式架构不同，Unit Mesh 中的服务单元 (Unit) 是由 AI 生成的，应用程序中的服务和数据抽象为一个个独立的单元，并通过统一的控制平面进行管理和部署。
-> 
+>
 
 ## Unit Mesh 核心思想：AI 生成的代码即 Unit
 
@@ -224,7 +225,7 @@ PS：值得注意的是，我们还需要对框架进行抽象，但是 Ktor 对
 ```kotlin
 %use kotless
 %use exposed
-            
+
 data class User(val id: Int, val username: String)
 
 class Server : KotlessAWS() {
@@ -303,4 +304,3 @@ class Server : KotlessAWS() {
 狗头，现在 **Waitlist 工程师**们，你可以就加入 Unit Mesh 的 Watchlist：
 
 [https://github.com/prompt-engineering/unit-mesh](https://github.com/prompt-engineering/unit-mesh)
-
