@@ -99,7 +99,7 @@ Since all code is a Unit, it can be designed as a microservice, developed as a S
 
 So, let AI decide how to run our Units.
 
-! [Adaptive Architecture](images/adaptive-architecture.png)
+![Adaptive Architecture](images/adaptive-architecture.png)
 
 ---
 
