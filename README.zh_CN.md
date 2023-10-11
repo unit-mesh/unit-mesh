@@ -299,7 +299,7 @@ class Server : KotlessAWS() {
 
 人生苦短，欢迎加入我们的 Watchlist，一起讨论未来。
 
-## ## Join Waitlist
+## Join Waitlist
 
 狗头，现在 **Waitlist 工程师**们，你可以就加入 Unit Mesh 的 Watchlist：
 

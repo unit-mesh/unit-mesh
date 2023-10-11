@@ -2,7 +2,7 @@
 
 > Unit Mesh是一种基于人工智能生成的分布式架构，与传统的分布式架构不同，Unit Mesh 中的服务单元 (Unit) 是由 AI 生成的，应用程序中的服务和数据抽象为一个个独立的单元，并通过统一的控制平面进行管理和部署。
 
-![简体中文版](README.zh_CN.md)
+[简体中文版](README.zh_CN.md)
 
 ![Unit Mesh](images/unit-mesh-processes.png)
 
