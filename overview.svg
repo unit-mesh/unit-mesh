@@ -92,27 +92,34 @@
                     <tspan x="166.996582" y="36" font-size="10">(DevTi)</tspan>
                 </text>
             </g>
-            <g id="Group-11" transform="translate(1.000000, 34.500000)">
-                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="218" height="38" rx="8"></rect>
+            <g id="Group-11" transform="translate(0.000000, 36.500000)">
+                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="172" height="38" rx="8"></rect>
                 <text id="Writing-Copilot-(Stu" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="60.4912109" y="16">Writing Copilot</tspan>
-                    <tspan x="74.8935547" y="30">(Studio B3)</tspan>
+                    <tspan x="36.4912109" y="16">Writing Copilot</tspan>
+                    <tspan x="50.8935547" y="30">(Studio B3)</tspan>
                 </text>
             </g>
-            <g id="Group-12" transform="translate(253.000000, 34.500000)">
+            <g id="Group-12" transform="translate(183.000000, 36.500000)">
                 <g id="Group-9">
-                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#48A178" x="0.5" y="0.5" width="218" height="38" rx="8"></rect>
+                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#48A178" x="0.5" y="0.5" width="173" height="38" rx="8"></rect>
                     <text id="Coding-Copilot-(Auto" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="63.0917969" y="16">Coding Copilot</tspan>
-                        <tspan x="81.0947266" y="30">(AutoDev)</tspan>
+                        <tspan x="39.7698791" y="16">Coding Copilot</tspan>
+                        <tspan x="57.7728088" y="30">(AutoDev)</tspan>
                     </text>
                 </g>
             </g>
-            <g id="Group-8" transform="translate(504.000000, 34.500000)">
-                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="218" height="38" rx="8"></rect>
+            <g id="Group-8" transform="translate(366.000000, 36.500000)">
+                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="173" height="38" rx="8"></rect>
                 <text id="DevOps-Copilot-(DevO" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="64.0917969" y="16">DevOps Copilot</tspan>
-                    <tspan x="64.0917969" y="30">(DevOpsGenius)</tspan>
+                    <tspan x="41.0917969" y="16">DevOps Copilot</tspan>
+                    <tspan x="41.0917969" y="30">(DevOpsGenius)</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(550.000000, 36.500000)">
+                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="172" height="38" rx="8"></rect>
+                <text id="Architecture-Copilot" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="14.4882812" y="16">Architecture Copilot</tspan>
+                    <tspan x="18.0888672" y="30">(ArchGuard Co-mate)</tspan>
                 </text>
             </g>
         </g>
