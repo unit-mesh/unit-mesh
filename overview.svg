@@ -61,14 +61,14 @@
                     <use id="Rectangle" mask="url(#mask-2)" xlink:href="#path-1"></use>
                 </g>
                 <g id="Group-7" transform="translate(10.000000, 41.000000)">
-                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#013D4F" x="0.5" y="0.5" width="138" height="38" rx="8"></rect>
+                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="138" height="38" rx="8"></rect>
                     <text id="Code-Runtime-(Unit-R" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
                         <tspan x="26.7929688" y="17">Code Runtime</tspan>
                         <tspan x="27.9931641" y="31" font-size="10">(Unit Runtime)</tspan>
                     </text>
                 </g>
                 <g id="Group-6" transform="translate(155.000000, 41.000000)">
-                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#013D4F" x="0.5" y="0.5" width="138" height="38" rx="8"></rect>
+                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="138" height="38" rx="8"></rect>
                     <text id="Cross-Team-AI-(CoUni" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
                         <tspan x="23.1923828" y="17">Cross Team AI</tspan>
                         <tspan x="45.9960938" y="31" font-size="10">(CoUnit)</tspan>
@@ -101,7 +101,7 @@
             </g>
             <g id="Group-12" transform="translate(253.000000, 34.500000)">
                 <g id="Group-9">
-                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#013D4F" x="0.5" y="0.5" width="218" height="38" rx="8"></rect>
+                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#48A178" x="0.5" y="0.5" width="218" height="38" rx="8"></rect>
                     <text id="Coding-Copilot-(Auto" font-family="CourierNewPS-BoldMT, Courier New" font-size="12" font-weight="bold" fill="#FFFFFF">
                         <tspan x="63.0917969" y="16">Coding Copilot</tspan>
                         <tspan x="81.0947266" y="30">(AutoDev)</tspan>
