@@ -7,7 +7,7 @@
         <g id="Group-2">
             <g id="Group">
                 <g id="logo">
-                    <rect id="Rectangle" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="960" height="960"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="960" height="960"></rect>
                     <g id="cube" transform="translate(189.000000, 100.000000)" fill-rule="nonzero">
                         <path d="M0.00875,151 L302.00875,301.8 L302.00875,673 L0.00875,522.2 L0.00875,151 Z M35,210 L35,496.577778 L268,613 L268,326.422222 L35,210 Z" id="Combined-Shape" stroke="#011C32" fill="#011C32"></path>
                         <polygon id="Path" stroke="#011C32" fill="#002E3B" points="302.00875 673 604.00875 522.2 604.00875 151 302.00875 301.8"></polygon>
