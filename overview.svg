@@ -93,7 +93,7 @@
                 </text>
             </g>
             <g id="Group-10" transform="translate(488.000000, 262.500000)">
-                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#CC850A" x="0.5" y="0.5" width="234" height="38" rx="8"></rect>
+                <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#48A178" x="0.5" y="0.5" width="234" height="38" rx="8"></rect>
                 <text id="Code-Eval-(UnitEval)" font-family="CourierNewPS-BoldMT, Courier New" font-size="16" font-weight="bold" fill="#FFFFFF">
                     <tspan x="74.7929688" y="18">Code Eval</tspan>
                     <tspan x="87.9951172" y="36" font-size="10">(UnitEval)</tspan>
