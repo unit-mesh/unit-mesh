@@ -87,16 +87,16 @@
             </g>
             <g id="Group-10" transform="translate(243.000000, 262.500000)">
                 <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill-opacity="0.5" fill="#000000" x="0.5" y="0.5" width="234" height="38" rx="8"></rect>
-                <text id="Code-Datasets-builde" font-family="CourierNewPS-BoldMT, Courier New" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="47.1835938" y="18">Datasets builder</tspan>
-                    <tspan x="96.996582" y="36" font-size="10">(DevTi)</tspan>
+                <text id="Code-Eval" font-family="CourierNewPS-BoldMT, Courier New" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="84.1835938" y="18">Code Eval</tspan>
+                    <tspan x="96.996582" y="36" font-size="10">(UnitEval)</tspan>
                 </text>
             </g>
             <g id="Group-10" transform="translate(488.000000, 262.500000)">
                 <rect id="Rectangle" stroke-opacity="0.85" stroke="#000000" fill="#48A178" x="0.5" y="0.5" width="234" height="38" rx="8"></rect>
                 <text id="Code-Eval-(UnitEval)" font-family="CourierNewPS-BoldMT, Courier New" font-size="16" font-weight="bold" fill="#FFFFFF">
                     <tspan x="12.7929688" y="18">Code datasets Generate</tspan>
-                    <tspan x="87.9951172" y="36" font-size="10">(UnitEval)</tspan>
+                    <tspan x="87.9951172" y="36" font-size="10">(UnitGen)</tspan>
                 </text>
             </g>
             <g id="Group-11" transform="translate(0.000000, 36.500000)">
